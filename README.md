@@ -1,4 +1,4 @@
-# Telco_customer_churn
+# Telco_customer_churn.
 
 **Predicting customer churn with machine learning**
 
